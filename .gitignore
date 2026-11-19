@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+*.egg-info/
+
+# Regenerable artefacts: trained weights and logs are large; results tables and figures are kept.
+runs/
+logs/
